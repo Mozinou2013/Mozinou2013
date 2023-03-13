@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Let me introduice myself, I'm Aline a computer science student at UNamur 😊
+
+### Summery
+
+<p align="center">
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozinou2013&hide_progress=false&theme=dark&card_width=300&langs_count=10" 
+     />
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mozinou2013&show_icons=true&theme=dark&include_all_commits=true&ring_color=#4efb00&disable_animations=true" />
+ </p>
+ 
 <!--
 **Mozinou2013/Mozinou2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
