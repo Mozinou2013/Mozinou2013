@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Let me introduice myself, I'm Aline a computer science student at UNamur 😊
+Let me introduce myself, I'm Aline a computer science student at UNamur 😊
 
-### Summery
+### Summary
 
 <p align="center">
     <img align="center" 
